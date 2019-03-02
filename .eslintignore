@@ -1,0 +1,7 @@
+public/
+config/
+node_modules/
+scripts/
+
+src/serviceWorker.js
+src/assets/font/
